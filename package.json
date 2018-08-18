@@ -1,0 +1,34 @@
+{
+  "name": "docker-nodejs-nodemon-boilerplate",
+  "version": "1.0.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/EliFuzz/docker-nodejs-nodemon-boilerplate"
+  },
+  "description": "This is a docker Node.js boilerplate with express nodemon and jarn preinstalled",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "author": "Roman Glushach <roman.glushach@gmail.com> (https://github.com/EliFuzz)",
+  "homepage": "https://github.com/EliFuzz/docker-nodejs-nodemon-boilerplate",
+  "keywords": [
+    "slim",
+    "compact",
+    "small",
+    "alpine",
+    "docker",
+    "dockerfile",
+    "docker-compose",
+    "docker compose",
+    "node",
+    "nodejs",
+    "nodemon",
+    "yarn",
+    "express",
+    "boilerplate"
+  ],
+  "license": "gpl-3.0",
+  "devDependencies": {
+    "express": "^4.16.3"
+  }
+}

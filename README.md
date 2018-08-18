@@ -1,5 +1,5 @@
 <h1 align="center">Docker Node.js boilerplate</h1>
-<p align="center">This is a Docker Compose boilerplate for NodeJS with yarn, based on Alpine Linux image</p>
+<p align="center">This is a Docker Compose boilerplate for NodeJS with `yarn, express, nodemon`, based on Alpine Linux image</p>
 <p align="center">
   <img width="150" height="150" src="https://raw.githubusercontent.com/docker/compose/master/logo.png" alt="Docker compose logo">&nbsp;
   <img width="150" height="150" src="https://camo.githubusercontent.com/fc61dcbdb7a6e49d3adecc12194b24ab20dfa25b/68747470733a2f2f692e636c6f756475702e636f6d2f7a6659366c4c376546612d3330303078333030302e706e67" alt="Express logo">&nbsp;
